@@ -13,6 +13,7 @@ Add Your Workouts to the Map in a Simple Customized Way.(JavaScript Training App
     - When the user opens the app the browser will ask for location .
     - Then when clicking on the map , a form will be renderd so as to fill the fields(_cycling or running_)
       -Hit the enter button to see it on the map.
+      ![User Interface](https://github.com/Youssuf-bakry/Mapty-App/blob/main/screen1.png "screenshot")
       Try it here
       [MaptyApp](https://youssuf-bakry.github.io/Mapty-App/?fbclid=IwAR23ObEVcEEqwD5tuZ9hcqnFw2xe5ENYzSqMG4tKEOKBhIcbh5u6pxAnU4U).
 
